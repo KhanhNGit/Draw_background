@@ -1,0 +1,7 @@
+﻿D:\Visual Studio\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Resize_and_Interpolation.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Resize_and_interpolation.cpp
+E:\Aimeddoc\CodeLearning\ANLab\Solution1\Project18\Resize_and_interpolation.cpp(18,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Aimeddoc\CodeLearning\ANLab\Solution1\Project18\Resize_and_interpolation.cpp(19,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Aimeddoc\CodeLearning\ANLab\Solution1\Project18\Resize_and_interpolation.cpp(20,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Aimeddoc\CodeLearning\ANLab\Solution1\Project18\Resize_and_interpolation.cpp(24,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project18.vcxproj -> E:\Aimeddoc\CodeLearning\ANLab\Solution1\Project1\x64\Debug\Interpolation_two_images.exe
